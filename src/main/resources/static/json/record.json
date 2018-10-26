@@ -1,0 +1,349 @@
+{
+  "records": [
+    {
+      "id": "0",
+      "name": "Fly me to the moon",
+      "price": 19.9,
+      "artist": "Santa",
+      "isFavourite": false,
+      "img": "cover_1.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2018-12-09T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "1",
+      "name": "Perfume",
+      "price": 192.9,
+      "artist": "Paloma",
+      "isFavourite": false,
+      "img": "cover_2.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2017-12-05T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "2",
+      "name": "FYou're Mine",
+      "price": 130.2,
+      "artist": "Lea Michelle",
+      "isFavourite": false,
+      "img": "cover_3.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2017-11-11T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "3",
+      "name": "Break Free",
+      "price": 200,
+      "artist": "Collbie caillat",
+      "isFavourite": false,
+      "img": "cover_4.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2018-12-09T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "4",
+      "name": "4 songs",
+      "price": 36.7,
+      "artist": "Kate",
+      "isFavourite": false,
+      "img": "cover_5.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2014-12-03T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "5",
+      "name": "Unstoppable",
+      "price": 100,
+      "artist": "Rozes",
+      "isFavourite": false,
+      "img": "cover_1.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2018-12-01T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "6",
+      "name": "Confetti",
+      "price": 300.9,
+      "artist": "Sia",
+      "isFavourite": false,
+      "img": "cover_2.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2018-10-05T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "7",
+      "name": "Heavy Love",
+      "price": 193.9,
+      "artist": "Lea Michele",
+      "isFavourite": false,
+      "img": "cover_3.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2018-12-09T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "9",
+      "name": "Suitcase",
+      "price": 130,
+      "artist": "Sia",
+      "isFavourite": false,
+      "img": "cover_4.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2018-12-09T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "10",
+      "name": "Come See About Me",
+      "price": 22.22,
+      "artist": "Nicki Minaj",
+      "isFavourite": false,
+      "img": "cover_5.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2018-12-09T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "11",
+      "name": "Not your ordinary",
+      "price": 40.22,
+      "artist": "Aventura",
+      "isFavourite": false,
+      "img": "cover_1.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2018-12-09T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "12",
+      "name": "Toy",
+      "price": 192,
+      "artist": "Disney",
+      "isFavourite": false,
+      "img": "cover_2.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2018-12-09T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "13",
+      "name": "Sangria wine",
+      "price": 80.1,
+      "artist": "Netta",
+      "isFavourite": false,
+      "img": "cover_3.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2018-12-09T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "14",
+      "name": "Work Work",
+      "price": 100.3,
+      "artist": "Britney",
+      "isFavourite": false,
+      "img": "cover_4.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2018-12-09T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "15",
+      "name": "Where are you now",
+      "price": 223.92,
+      "artist": "Lizzo",
+      "isFavourite": false,
+      "img": "cover_5.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2012-12-05T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "16",
+      "name": "Sugar",
+      "price": 77.9,
+      "artist": "Maroon",
+      "isFavourite": false,
+      "img": "cover_1.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2012-8-03T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "17",
+      "name": "Pac-Man",
+      "price": 12.9,
+      "artist": "Aventura",
+      "isFavourite": false,
+      "img": "cover_2.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2018-11-09T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "18",
+      "name": "One Kiss",
+      "price": 45,
+      "artist": "Clavin Harris",
+      "isFavourite": false,
+      "img": "cover_4.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2018-12-07T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "19",
+      "name": "Narco",
+      "price": 192.9,
+      "artist": "slawomir",
+      "isFavourite": false,
+      "img": "cover_5.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2018-12-09T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "20",
+      "name": "New World",
+      "price": 30.8,
+      "artist": "Krewella",
+      "isFavourite": false,
+      "img": "cover_1.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2018-12-09T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "21",
+      "name": "New Rules",
+      "price": 19.9,
+      "artist": "Dua lip",
+      "isFavourite": false,
+      "img": "cover_2.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2017-12-09T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "22",
+      "name": "Mad Love",
+      "price": 20.9,
+      "artist": "Sean Paul",
+      "isFavourite": false,
+      "img": "cover_3.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2017-3-09T22:00:00.000Z",
+      "label": "winter"
+    },
+    {
+      "id": "23",
+      "name": "I Feel It Coming",
+      "price": 180.2,
+      "artist": "Daft Punk",
+      "isFavourite": false,
+      "img": "cover_1.png",
+      "desc": "This is description test text ",
+      "bucket": {
+        "addToBucket": false,
+        "NumberAdded": 3
+      },
+      "releaseDate": "2018-12-09T22:00:00.000Z",
+      "label": "winter"
+    }
+  ]
+}
